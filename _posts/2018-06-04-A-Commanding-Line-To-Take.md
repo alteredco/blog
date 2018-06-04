@@ -5,9 +5,6 @@ date:   2018-06-04
 excerpt: "Today was all about breaking down basic command line in a way that any beginner could understand."
 image: "https://image.ibb.co/edTov8/Beginner_Command_Line.png"
 ---
-<p align="center">
-  <img width="460" height="300" src="https://image.ibb.co/edTov8/Beginner_Command_Line.png" alt="Beginner_Command_Line">
-</p>
 
 Today was all about breaking down basic command line in a way that any beginner could understand.
 The __command line (or terminal)__ is a faster and much more powerful way to maneuver in your operating system than the _graphical user interface (GUI)_ we have all come to rely on so much. It is a less intuitive and uglier way of working with your operating system, but you can do a lot more with it than a GUI! In this post I will cover these basic maneuvers in the command line:
