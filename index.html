@@ -1,12 +1,4 @@
----
-layout: page
-title: kudaCode - Blog Page
-description: Documenting the life of a mom and coffeedrinker, taking on web development and traveling the world
-sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
----
+--- layout: page title: kudaCode - Blog Page description: Documenting the life of a mom and coffeedrinker, taking on web development and traveling the world sitemap: priority: 1.0 lastmod: 2017-11-02 changefreq: weekly ---
 <!DOCTYPE HTML>
 <!--
 	Massively by HTML5 UP
@@ -18,41 +10,36 @@ sitemap:
 
 <body class="is-loading">
 
-<!-- Main -->
-      <!-- Featured Post -->
-      <article class="post featured">
-          <a href="#" class="image main"><img src="{{ "/images/blogtitle.png" | absolute_url }}" alt="kudacode logo" /></a>
-        <header class="major">
-          <h2><a href="#"></a>Currently: Struggling through Data Science!</h2>
-          <p>Happy to chat with any fellow Bertlesmann Data Scholars</p>
-        </header>
-      </article>
+  <!-- Main -->
+  <!-- Featured Post -->
+  <article class="post featured">
+    <a href="#" class="image main"><img src="{{ "/images/blogtitle.png" | absolute_url }}" alt="kudacode logo" /></a>
+    <header class="major">
+      <h3><a href="#"></a>June Goals: Struggling through Data Science!</h3>
+      <p>Happy to chat with any fellow Bertlesmann Udacity Data Scholars</p>
+    </header>
+  </article>
 
-      <!-- Posts -->
-      <section class="posts">
-        {% for post in site.posts limit:3 %} {% assign mod3 = forloop.index | modulo: 3 %}
-        <article>
-          <header>
-            <span class="date">{{ post.date | date_to_string }}</span>
-            <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-          </header>
-          <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-          <p>{{ post.excerpt }}</p>
-          <ul class="actions">
-            <li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-          </ul>
-        </article>
-        {% if mod3 == 0 %}
-        <article>
-          <header>
-            <h2><a href="#">Sponsored</a></h2>
-          </header>
-        </article>
-        {% endif %} {% endfor %}
+  <!-- Posts -->
+  <section class="posts">
+    {% for post in site.posts limit:3 %} {% assign mod3 = forloop.index | modulo: 3 %}
+    <article>
+      <header>
+        <span class="date">{{ post.date | date_to_string }}</span>
+        <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+      </header>
+      <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+      <p>{{ post.excerpt }}</p>
+      <ul class="actions">
+        <li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+      </ul>
+    </article>
+    {% if mod3 == 0 %}
+    {% endif %} {% endfor %}
 
-      </section>
+  </section>
 
-    </div>
+  </div>
 
   <!-- Scripts -->
   {% include scripts-main.html %} {% include tracking.html %}

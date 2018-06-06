@@ -35,9 +35,9 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            https://twitter.com/kudacoder
 facebook:           default
-instagram:          default
+instagram:          https://www.instagram.com/kudacoder/
 github:             default
 
 # personal
