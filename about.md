@@ -7,13 +7,13 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## About my Site
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" /></span>
 
 This is the blog site of Wendy Kakuda: a mom and coffee drinker, that is self-teaching web development and traveling the world.
 
-### Content is Important
+### Who I am
 <div class="box">
   <p>
   'I am a Front End Web Developer in training that has had a varied career in fields such as art, psychotherapy, communications and PR. I bring a diverse skill-set to my work and have much to offer clients.
