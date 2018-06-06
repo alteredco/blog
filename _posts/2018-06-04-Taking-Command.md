@@ -26,4 +26,11 @@ It is actually a very bad idea to start running things directly from the __root_
 
 ## 'All you need is the plan, the road map, and the courage to press on to your destination.' - Earl Nightingale
 
-So now that we know where our home is, how do we know what else is in this tree? There are a few commands that can help. The first is __pwd (print working directory)__ . 
+So now that we know where our home is, how do we know what else is in this tree? There are a few commands that can help. The first is __pwd (print working directory)__ . When entered in the terminal it will look something like this:
+    :~ $ __pwd__
+
+    _/Users/Wendy_
+With __pwd__ command we can see the absolute path to our current position in the directories. It is a good way to look back on the path.
+
+We can also use the __ls (list)__ command to view a list of a directory.
+TBC....
