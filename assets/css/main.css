@@ -2417,6 +2417,7 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
+		width: 75%;
 	}
 
 		.image img {
