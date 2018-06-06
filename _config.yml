@@ -31,14 +31,14 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   kudacode.disqus.com
+disqus_shortname:   kudacode
 
 # Social
 analytics-id:       "default"
-twitter:            https://twitter.com/kudacoder
-facebook:           https://www.facebook.com/kudacoder/
-instagram:          https://www.instagram.com/kudacoder/
-github:             https://github.com/alteredco
+twitter:            kudacoder
+facebook:           kudacoder
+instagram:          kudacoder
+github:             alteredco
 
 # personal
 location:           Brussels, Belgium

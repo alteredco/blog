@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About - Wendy Kakuda
-description: Documenting the life of a mom and coffeedrinker, taking on web development and traveling the world
+description: Documenting the life of a mom and coffee drinker, taking on web development and traveling the world
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -11,7 +11,7 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" /></span>
 
-This is the blog site of Wendy Kakuda: a mom and coffee drinker, that is self-teaching web development and traveling the world.
+This is the blog site of Wendy Kakuda: a mom and coffee drinker, who is self-teaching web development and traveling the world.
 
 ### Who I am
 <div class="box">
@@ -30,6 +30,6 @@ This is the blog site of Wendy Kakuda: a mom and coffee drinker, that is self-te
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/connect.jpg" | absolute_url }}" alt="" /></span>
 
 Let's connect on social media!
