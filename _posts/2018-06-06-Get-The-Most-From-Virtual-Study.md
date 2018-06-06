@@ -6,7 +6,8 @@ excerpt: "The new way to learn"
 image: "https://preview.ibb.co/kVFsco/virtual_study.png"
 ---
 
-If you are a lifelong learner, like myself, you have had your fair share of educational experiences. I think I have tried it all, from degrees courses to asking a friend to sit and teach me floral arranging over coffee. However, after being saddled by scarily high student loans for my Masters degree, I am very wary of the "traditional" approach to further education.
+If you are a lifelong learner, like myself, you have had your fair share of educational experiences. I think I have tried it all, from degrees courses to asking a friend to sit and teach me floral arranging over coffee. However, after being saddled by scarily high student loans for my Masters degree, I am very wary of the "traditional" approach to further education.  
+
 ![student loan comic](https://image.ibb.co/icmhco/16a9bc3ee4eb32a87c18cd3c713ef07c.jpg)
 
 Enter MOOCs (massive open online courses), which are a great equaliser in opportunities for higher education and tap into a global audience. Many see this as a democratising force in higher education.
