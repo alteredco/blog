@@ -11,7 +11,7 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/profile.jpeg" | absolute_url }}" alt="" /></span>
 
-This is the blog site of Wendy Kakuda: a mom and coffee drinker, who is self-teaching web development and traveling the world.
+This is the blog site of Wendy Kakuda: a mom and coffee drinker, who is self-teaching web development and traveling the world. Check out my portfolio here: [Wendy Kakuda's Portfolio](https://alteredco.github.io/fcc-portfolio/)
 
 ### Who I am
 <div class="box">
