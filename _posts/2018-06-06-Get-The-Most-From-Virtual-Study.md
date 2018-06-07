@@ -14,6 +14,8 @@ Enter MOOCs (massive open online courses), which are a great equaliser in opport
 
 In this post, I'll first cover a bit about the pros and cons of MOOCs. I will then go into my recent experiences in a Udacity learning course and share my top tips to get the most from virtual study. Feel free to skip around to the section you wish!
 
+### MOOC-tastic
+
 According to the [MOOC Guide](http://moocguide.wikispaces.com/2.+Benefits+and+challenges+of+a+MOOC):
 >12 benefits of a MOOC:
 1.    You can organize a MOOC in any setting that has connectivity (which can include the Web, but also local connections via Wi-Fi e.g.)
@@ -29,12 +31,14 @@ According to the [MOOC Guide](http://moocguide.wikispaces.com/2.+Benefits+and+ch
 11.   You add to your own personal learning environment and/or network by participating in a MOOC
 12.   You will improve your lifelong learning skills, for participating in a MOOC forces you to think about your own learning and knowledge absorption
 
-There are definite challenges in this environment however.
+There are definite cons you have to be prepared for in this environment however.
 >Possible challenges of a MOOC:
 1.    It feels chaotic as participants create their own content
 2.    It demands digital literacy
 3.    It demands time and effort from the participants
 4.    It is organic, which means the course will take on its own trajectory (you have got to let go).
 5.    As a participant you need to be able to self-regulate your learning and possibly give yourself a learning goal to achieve.
+
+### Oh the Udacity of it all
 
 My most recent virtual study experience has been in the Bertlesmann Udacity Data Science Scholarship course. TBC...
