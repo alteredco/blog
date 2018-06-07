@@ -28,8 +28,8 @@ It is actually a very bad idea to start running things directly from the __root_
 
 So now that we know where our home is, how do we know what else is in this tree? There are a few commands that can help. The first is __pwd (print working directory)__ . When entered in the terminal it will look something like this:
 
-    :~ $ __pwd__
-    _/Users/Wendy_
+    :~ $ pwd
+    /Users/Wendy
 
 With __pwd__ command we can see the absolute path to our current position in the directories. It is a good way to look back on the path.
 
