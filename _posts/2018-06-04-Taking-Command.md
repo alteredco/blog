@@ -29,9 +29,18 @@ It is actually a very bad idea to start running things directly from the __root_
 So now that we know where our home is, how do we know what else is in this tree? There are a few commands that can help. The first is __pwd (print working directory)__ . When entered in the terminal it will look something like this:
 
     :~ $ pwd
-    /Users/Wendy
+    _/Users/Wendy_
 
 With __pwd__ command we can see the absolute path to our current position in the directories. It is a good way to look back on the path.
 
-We can also use the __ls (list)__ command to view a list of a directory.
+We can also use the __ls (list)__ command to view a list of a directory. This is good way to look at our immediate surroundings. There is an added benefit to __ls__ in that this command can also be used to peer into other directories, _without moving_, as long as we know the path to that directory.
+
+    :~ $ ls /Users/Wendy/Projects
+    _hello-world_ | _portfolio_ | _blog_
+
+This can be useful when we want to start moving around quickly and use our next command: __cd (change directory)__.
+
+
+
+
 TBC....
