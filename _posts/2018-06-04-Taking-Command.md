@@ -31,16 +31,39 @@ So now that we know where our home is, how do we know what else is in this tree?
     :~ $ pwd
     _/Users/Wendy_
 
-With __pwd__ command we can see the absolute path to our current position in the directories. It is a good way to look back on the path.
+With __pwd__ command we can see the relative path to our current position in the directories. It is a good way to look back on the path thus far.
 
-We can also use the __ls (list)__ command to view a list of a directory. This is good way to look at our immediate surroundings. There is an added benefit to __ls__ in that this command can also be used to peer into other directories, _without moving_, as long as we know the path to that directory.
+We can also use the __ls (list)__ command to view a list of a directory but unlike __pwd__, it will look into any directory we point it to (like Sauron's eye!). This command can be used to peer into other directories, _without moving_, as long as we know the _absolute path_ to that directory.
 
     :~ $ ls /Users/Wendy/Projects
-    _hello-world_ | _portfolio_ | _blog_
+    _hello-world_  _portfolio_  _blog_
 
 This can be useful when we want to start moving around quickly and use our next command: __cd (change directory)__.
 
+## 'We keep moving forward, opening up new doors and doing new things, because we're curious...and curiosity keeps leading us down new paths.' - Walt Disney
 
+The great thing about the __cd__ command, like we have seen with the __ls__ command, is that you can navigate in two different ways: _absolutely_ and _relatively_.
 
+Navigating _absolutely_ means you follow the _absolute path_ (remember this term from the beginning of this post?). Regardless to where you currently are, the _absolute path_ to a location will always remain unchanged. It is like an address.
+
+Navigating _relatively_ means that you find the path _from_ your current location. This is like using sat nav to get around. In most circumstances, this is much quicker than typing out a full absolute path. For example, if we were in the /Users/Wendy/ directory and we wanted to get into /Projects/, rather than type out: root/Users/Wendy/Projects we can just do the following:
+
+    :~ $ cd Projects
+
+_*One useful tip is that_ __tab__ _will autocomplete paths._
+
+Relative navigation can be described in terms of _parent and child_ relationships. Our operating system to be a bit like a family tree. The closer to the root, the farther back in family history we go. The directory before our current location would be the _parent_ directory. There is actually a handy technique for moving backward based on this concept. In the command line "__.__" stands for the _current_ directory. "__..__" therefore stands for the _parent_ directory. We can move backward one step by simply typing:
+
+     :~ $ cd ..
+
+Finally, we can return to our default location by typing:
+
+    :~ $ cd
+
+##'The best way to predict the future is to to create it.' - Peter Drucker
+
+Your newfound powers in the command line can also perform instant magic. Simply by typing __mkdir (make directory)__ plus a filename, presto! You have a new file in your current location. Like the most recent commands you learned, this can be done through _absolute_ or _relative_ paths.
+
+It is just as simple to create files too. Simply type __touch__ and a filename (don't forget to add a type suffix!) and presto! You have a new file.
 
 TBC....
