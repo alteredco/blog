@@ -3,7 +3,7 @@ layout: post
 title:  "My Long Coding Journey"
 date:   2018-06-04
 excerpt: "How I reinvented myself, many times over."
-image: "https://ibb.co/mn6pWU"
+image: "https://image.ibb.co/i54bBU/The_Art_OF_Reinvention_1.png"
 ---
 
 I remember when I realised I wasn’t going to have a straightforward career. I had just given a day-long Art Psychotherapy workshop to a large group of Kazakh social workers. It had been an invigorating and exciting opportunity, but at the end of the day I saw with full clarity limits of my career prospects.
