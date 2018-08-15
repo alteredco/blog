@@ -60,7 +60,7 @@ Finally, we can return to our default location by typing:
 
     :~ $ cd
 
-##'The best way to predict the future is to to create it.' - Peter Drucker
+## 'The best way to predict the future is to to create it.' - Peter Drucker
 
 Your newfound powers in the command line can also perform instant magic. Simply by typing __mkdir (make directory)__ plus a filename, presto! You have a new file in your current location. Like the most recent commands you learned, this can be done through _absolute_ or _relative_ paths.
 
