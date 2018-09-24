@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Long Coding Journey"
-date:   2018-06-04
+date:   2018-08-15
 excerpt: "How I reinvented myself, many times over."
 image: "https://image.ibb.co/i54bBU/The_Art_OF_Reinvention_1.png"
 ---

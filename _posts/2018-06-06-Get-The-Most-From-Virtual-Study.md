@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Get The Most from Virtual Study"
-date:   2018-06-04
+date:   2018-06-06
 excerpt: "The new way to learn"
 image: "https://preview.ibb.co/kVFsco/virtual_study.png"
 ---
