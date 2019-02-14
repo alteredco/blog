@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Get The Most from Virtual Study"
+title:  "How to choose a MOOC"
 date:   2019-02-14
-excerpt: "The new way to learn"
+excerpt: "Part of  'Get The Most From Virtual Study' series"
 image: "https://preview.ibb.co/kVFsco/virtual_study.png"
 ---
 
