@@ -2418,7 +2418,7 @@
 		display: inline-block;
 		position: relative;
 		width: 75%;
-		height: 20rem;
+		height: auto;
 	}
 
 		.image img {
