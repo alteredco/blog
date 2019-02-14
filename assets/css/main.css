@@ -2418,6 +2418,7 @@
 		display: inline-block;
 		position: relative;
 		width: 75%;
+		height: 10rem;
 	}
 
 		.image img {
