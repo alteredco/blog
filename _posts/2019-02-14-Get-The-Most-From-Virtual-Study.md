@@ -43,20 +43,20 @@ There are definite cons you have to be prepared for in this environment however.
 
 A recent virtual study experience has been in the Bertlesmann Udacity Data Science Scholarship course. I have to highlight that the following is my own opinion about this course and that is was an unusaul format because it was a scholarship course. However, I have to say that I was rapidly faced with many of the challenges listed above. In this case the cohort was HUGE (15,000) and thus the feeling of chaos reigned supreme for some time. In my opinion, for a MOOC that was too large a group to actually give anyone a strong sense of community. It wasn't helped by the shear number of social channel options to engage on or the 'points' system that was applied. Slack, FB pages and chat forumns were all being utilised and participants were given points for using these. This encouraged a ridiculous level of commmenting that made it difficult to find information quickly or effectively. Personally I was rapidly demotivated from engaging with the community at all and I think this is something that anyone needs to consider carefully when they are thinking of using MOOCS. 
 
-## Do I need a community network to help me to achieve my learning goals? What would that community ideally look like?
+# Do I need a community network to help me to achieve my learning goals? What would that community ideally look like?
 
 With less engagement in the community network, I was free to fully focus on the course. It was organised well as an introduction to data science and the videos were well shot. It seemed only half-finished however as although I came out understanding many key concepts, I knew nothing about how to apply these or what tools to use. I finished ths 3-month course in about 1 1/2 months, at which point I was left wondering what to do next. I tried joining student study groups and possible group projects but our progress was so varied and skillsets so different that nothing came of it all. It came together for others so I don't want to be a complete negative nelly, but I would be curious to know the actual percentage of cohort that found a way to create projects. Which brings me to my next tips.
 
-## Have an idea of how you wish to carry your learning forward. Research what tools and networks may be your next step BEFORE you start.
+# Have an idea of how you wish to carry your learning forward. Research what tools and networks may be your next step BEFORE you start.
 
 As the course was organised, the ending felt very abrupt and a project would have been a good capstone to pull things together a bit more coherently. With the size of the cohort, maybe the rationale of leaving us to sort ourselves out with projects has some merit, but I think some suggestions for how to structure a first project or tips to go forward would have been helpful and very welcome. I did learn that I am more inclined to learn through project-driven coursework and have since pursued a MOOC course that porvides this kind of structure.
 
-## Understand your learning style and how that will be supported by MOOC curriculum.
-[Find out about learning styles:] <https://www.educationcorner.com/learning-styles.html>
+# Understand your learning style and how that will be supported by MOOC curriculum.
+_Find out about learning styles:_ <https://www.educationcorner.com/learning-styles.html>
 
 At the end of the day, I am happy that I completed the course and had a taste of data science because I genuinely enjoy learning. Realistically, I am very glad that I limited my time investment to 1 1/2 months and maximum 20 hours per week. With the initial flurry of activity on the social channels, it would have been easy to get caught up and overextend my resources. I did go on to self-study further Python (which I love) and even teach an 'Introduction to Python' course with Moms Can:Code, which was all a bonus on a small time investment. 
 
-## Temper your level of investment (money AND time) based on your expectations of the course. Be firm and realistic about this. Check out reviews from previous students to paint a picture of what comes after course completion.
+# Temper your level of investment (money AND time) based on your expectations of the course. Be firm and realistic about this. Check out reviews from previous students to paint a picture of what comes after course completion.
 
 This experience taught me a lot about what I need from a MOOC. I have since started learning with Team Treehouse, which I love and which addresses many of the issues I had with the Udemy course. I hope that these thoughts and tips help you get the most from your own virtual studies! **Happy learning!**
 
