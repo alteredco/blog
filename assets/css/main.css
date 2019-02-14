@@ -3568,7 +3568,7 @@
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
-		max-width: 72rem;
+		max-width: 50rem;
 		z-index: 2;
 	}
 
