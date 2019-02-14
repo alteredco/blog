@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-06-04T23:39:55+02:00</updated><id>/</id><title type="html">kudaCode</title><subtitle>Documenting the life of a mom and coffeedrinker, taking on web development and traveling the world</subtitle><entry><title type="html">A Commanding Line to Take</title><link href="/blog/A-Commanding-Line-To-Take/" rel="alternate" type="text/html" title="A Commanding Line to Take" /><published>2018-06-04T00:00:00+02:00</published><updated>2018-06-04T00:00:00+02:00</updated><id>/blog/A-Commanding-Line-To-Take</id><content type="html" xml:base="/blog/A-Commanding-Line-To-Take/">&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;https://image.ibb.co/edTov8/Beginner_Command_Line.png&quot; alt=&quot;Beginner_Command_Line&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Today was all about breaking down basic command line in a way that any beginner could understand.
+The &lt;strong&gt;command line (or terminal)&lt;/strong&gt; is a faster and much more powerful way to maneuver in your operating system than the &lt;em&gt;graphical user interface (GUI)&lt;/em&gt; we have all come to rely on so much. It is a less intuitive and uglier way of working with your operating system, but you can do a lot more with it than a GUI! In this post I will cover these basic maneuvers in the command line:
+  -navigation
+  -creating / removing directories and files
+  -moving, copying and pasting things
+The end aim is to be ready to utilise the command line to execute Python scripts.&lt;/p&gt;
+
+&lt;h2 id=&quot;youve-got-to-find-yourself-first-everything-elsell-follow---charles-de-lint&quot;&gt;‘You’ve got to find yourself first. Everything else’ll follow.’ - Charles De Lint&lt;/h2&gt;
+
+&lt;p&gt;You may or may not know that your operating system functions as a tree-like system, with everything growing from the &lt;strong&gt;root&lt;/strong&gt; directory. As sub-directories and files are added they grow along an &lt;em&gt;absolute path&lt;/em&gt;. Each additional level along the tree is added as a “/”.
+You may assume that we would therefore start in the &lt;strong&gt;terminal&lt;/strong&gt; at the &lt;strong&gt;root&lt;/strong&gt; as our default. However you would be wrong.
+By default, you will begin at the &lt;strong&gt;home&lt;/strong&gt; directory (also known as &lt;strong&gt;~&lt;/strong&gt;).&lt;/p&gt;</content><summary type="html">Today was all about breaking down basic command line in a way that any beginner could understand.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://image.ibb.co/edTov8/Beginner_Command_Line.png" /></entry><entry><title type="html">Welcome to Massively: The Jekyll Theme!</title><link href="/blog/welcome-to-massively-the-jekyll-theme/" rel="alternate" type="text/html" title="Welcome to Massively: The Jekyll Theme!" /><published>2017-10-31T00:00:00+01:00</published><updated>2017-10-31T00:00:00+01:00</updated><id>/blog/welcome-to-massively-the-jekyll-theme</id><content type="html" xml:base="/blog/welcome-to-massively-the-jekyll-theme/">&lt;h2 id=&quot;how-to-use-this-theme&quot;&gt;How to Use This Theme&lt;/h2&gt;
+&lt;p&gt;Just go ahead and read up on &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;how to install Jekyll&lt;/a&gt;. It’s not too hard I promise!&lt;/p&gt;
+
+&lt;p&gt;Download this repository &lt;a href=&quot;https://github.com/iwiedenm/jekyll-theme-massively&quot;&gt;here&lt;/a&gt; and save it to any folder you want.&lt;/p&gt;
+
+&lt;p&gt;Open a terminal window or a command line and &lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt; to that location.&lt;/p&gt;
+
+&lt;p&gt;Then enter: &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;. You can now access your new Jekyll site from &lt;a href=&quot;http://127.0.0.1:4000/&quot;&gt;http://127.0.0.1:4000/&lt;/a&gt;. Have fun exploring your new site!&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;h3 id=&quot;auto-generating-sitemap&quot;&gt;Auto-Generating Sitemap&lt;/h3&gt;
+&lt;p&gt;The sitemap is auto generated! Just simply change the front matter of each site. It looks like so…&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sitemap:
+    priority: 0.7
+    lastmod: 2017-11-02
+    changefreq: weekly
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 id=&quot;formspring-integration&quot;&gt;Formspring integration&lt;/h3&gt;
+&lt;p&gt;The contact form below each page on the footer actually collects information! Just change your email address in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file!&lt;/p&gt;</content><summary type="html">Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/pic02.jpg" /></entry></feed>
