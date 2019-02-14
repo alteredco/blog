@@ -53,7 +53,7 @@ As the course was organised, the ending felt very abrupt and a project would hav
 
 _Understand your learning style and how that will be supported by MOOC curriculum._
 
-[Find out about learning styles:] (https://www.educationcorner.com/learning-styles.html)
+[Find out about learning styles:] <https://www.educationcorner.com/learning-styles.html>
 
 At the end of the day, I am happy that I completed the course and had a taste of data science because I genuinely enjoy learning. Realistically, I am very glad that I limited my time investment to 1 1/2 months and maximum 20 hours per week. With the initial flurry of activity on the social channels, it would have been easy to get caught up and overextend my resources. I did go on to self-study further Python (which I love) and even teach an 'Introduction to Python' course with Moms Can:Code, which was all a bonus on a small time investment. 
 
