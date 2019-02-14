@@ -51,7 +51,9 @@ With less engagement in the community network, I was free to fully focus on the 
 
 The ending to the course felt very abrupt and a project would have been a good capstone to pull things together a bit more coherently. With the size of the cohort, maybe the rationale of leaving us to sort ourselves out with projects has some merit, but I think suggestions for how to structure a first project or tips to go forward would have been helpful and very welcome. I did find that I am more inclined to learn through project-driven coursework and have since pursued a MOOC course that provides this kind of structure.
 
-***Understand your learning style and how that will be supported by MOOC curriculum.***_Find out about learning styles:_ 
+***Understand your learning style and how that will be supported by MOOC curriculum.***
+
+_Find out about learning styles:_ 
 <https://www.educationcorner.com/learning-styles.html>
 
 At the end of the day, I am happy that I completed the course and had a taste of data science because I genuinely enjoy learning. Realistically, I am very glad that I limited my time investment to 1.5 months and maximum 20 hours per week. With the initial flurry of activity on the social channels, it would have been easy to get caught up and overextend my resources. I did go on to self-study further Python (which I love) and even teach an 'Introduction to Python' course with Moms Can:Code, which was all a bonus on a small time investment. 
