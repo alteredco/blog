@@ -12,7 +12,7 @@ If you are a lifelong learner, like myself, you have had your fair share of educ
 
 Enter MOOCs (massive open online courses), which are a great equaliser in opportunities for higher education and tap into a global audience. Many see this as a democratising force in higher education. Certainly as a mom and a traveler, I could not retrain without the flexibility that the virtual learning environment offers.
 
-In this post, I'll first cover a bit about the pros and cons of MOOCs. I will then go into my recent experiences in a Udacity learning course and share my top tips to get the most from virtual study. Feel free to skip around to the section you wish!
+In this post, I'll first cover a bit about the pros and cons of MOOCs. I will then go into my recent experiences in a Udacity learning course and share my top tips when choosing a MOOC. Feel free to skip around to the section you wish!
 
 ### MOOC-tastic
 
@@ -45,7 +45,7 @@ A recent virtual study experience has been in the Bertlesmann Udacity Data Scien
 
  ***Do I need a community network to help me to achieve my learning goals? What would that community ideally look like?***
 
-With less engagement in the community network, I was free to fully focus on the course. It was organised well as an introduction to data science and the videos were well shot. It seemed only half-finished however as although I came out understanding many key concepts, I knew nothing about how to apply these or what tools to use. I finished this 3 month course in about 1.5 months, at which point I was left wondering what to do next. I tried joining student study groups and group projects but our progress was so varied and skillsets so different that nothing came of it all. Some groups did flourish so I don't want to be a complete negative nelly. I suspect they were in the minority. Which brings me to my next tips.
+With less engagement in the community network, I was free to fully focus on the course. It was generally organised well as an introduction to data science and the video tutorials nicely shot. The last quarter seemed less polished however as although I came out understanding many key concepts, I knew nothing about how to apply these or what tools to use. I finished this 3 month course in about 1.5 months, at which point I was left wondering what to do next. I tried joining student study groups and group projects but our progress was so varied and skillsets so different that nothing came of it all. Some groups did flourish so I don't want to be a complete negative nelly. Which brings me to my next tips.
 
 ***Have an idea of how you wish to carry your learning forward. Research what tools and networks may be your next step BEFORE you start.***
 
