@@ -38,22 +38,24 @@ We can access different properties or methods of Sailor Moon using _dot notation
 
 ### Class Constructor
 
-Our Sailor Moon object literal is all well and good, but imagine my astonishment on learning there were four other magical Sailor Scouts! There must be a quicker way to build our Sailor Senshi team than writing out the same object literal keys every time a new one magically makeups! Thanks to ES2015, yes there is! Classes in JavaScript are lovely syntatical sugar waving a moon crescent wand over object creation and inheritance issues.
+Our Sailor Moon object literal is all well and good, but imagine my astonishment on learning there were four other magical Sailor Scouts! There must be a quicker way to build our Sailor Senshi team than writing out the same object literal keys every time a new one magically makeups! Thanks to ES2015, yes there is! **_Classes_** in JavaScript are lovely syntatical sugar waving a moon crescent wand over object creation and inheritance issues.
 
-With class, we can make a Sailor Scout blueprint and churn out four, five, even nine scouts with a few lines of code. Moon Cosmic Dream Action!
+With **_class_**, we can make a Sailor Scout blueprint and churn out four, five, even nine scouts with a few lines of code. **Moon Cosmic Dream Action!**
 
 ![Outer Sailor Scouts](https://i.ibb.co/NpWmxV3/Outer-Senshi.jpg#feature)
 
-Let's start with declaring our class. Notice the name of the class is capitalized. This is common convention. Inside of our class, we will add a **_constructor_** method. The constructor is like a factory that will make all of the property values we request as _parameters_ we place in the _()_. So, what do you think a sailor scout needs? 
+Let's start with declaring our **_class_**. Notice the name of the **_class_** is capitalized. This is common convention. Inside of our **_class_**, we will add a **_constructor_** method. The _constructor_ is like a factory that will make all of the property values we request. We request these _parameters_ by placing them in the _()_. So, what do you think a sailor scout needs? 
 
-    class SailorScout = {
+    class SailorScout {
       constructor(scoutName, humanName, birthday, element, favoriteColor, favoriteFood, strength, weakness) {
       }
     }
 
-So we have our constructor and request list. Let's place some object _properties_ in the _constructor_ and link them to our requests or _parameters_. We need to use dot notation and the keyword **_this_**. In this case **_this_** refers to the object being created. It is linked to a property using dot notatation and set equal to a parameter (value).
+So we have our _constructor_ and request list (_parameters_). Let's place some object _properties_ in the _constructor_ and link them to our _parameters_. 
 
-    class SailorScout = {
+We need to use dot notation and the keyword **_this_**. In this case **_this_** refers to the object being created. It is linked to a _property_ using dot notatation and set equal to a _parameter_.
+
+    class SailorScout {
       constructor(scoutName, humanName, birthday, element, favoriteColor, strength, weakness) {
         this.scoutName = scoutName;
         this.humanName = humanName;
@@ -65,6 +67,11 @@ So we have our constructor and request list. Let's place some object _properties
       }
     }
 
+Now we are ready to **_instantiate_** our Sailor Scout! _Instantiate_ means to create. First we will declare a variable to hold the object. We set the variable equal to the keyword _new_ and the **_class_** name, then we pass in our Sailor Scout's values as _parameters_.
 
+    const sailorMercury = new SailorScout('Sailor Mercury', 'Ami', 'September 10', 'Water', 'Blue', 'Intelligence', 
+    'Shyness')
 
+Now if we ```console.log(sailorMercury)``` we should see all of Sailor Mercury's properties and values!
 
+```SailorScout {scoutName: "Sailor Mercury", humanName: "Ami", birthday: "September 10", element: "Water", favoriteColor: "Blue", strength: "Intelligence", weakness: "shyness"}```
