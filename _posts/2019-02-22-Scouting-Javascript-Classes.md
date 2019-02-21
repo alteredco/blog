@@ -47,7 +47,7 @@ With **_class_**, we can make a Sailor Scout blueprint and churn out four, five,
 Let's start with declaring our **_class_**. Notice the name of the **_class_** is capitalized. This is common convention. Inside of our **_class_**, we will add a **_constructor_** method. The _constructor_ is like a factory that will make all of the property values we request. We request these _parameters_ by placing them in the _()_. So, what do you think a sailor scout needs? 
 
     class SailorScout {
-      constructor(scoutName, humanName, birthday, element, favoriteColor, favoriteFood, strength, weakness) {
+      constructor(scoutName, humanName, birthday, element, favoriteColor, strength, weakness) {
       }
     }
 
