@@ -33,6 +33,8 @@ So now that we know where our home is, how do we know what else is in this tree?
 
 With __pwd__ command we can see the relative path to our current position in the directories. It is a good way to look back on the path thus far.
 
+![ls can see all!](https://i.ibb.co/PMDj3FF/sauron.jpg#feature)
+
 We can also use the __ls (list)__ command to view a list of a directory but unlike __pwd__, it will look into any directory we point it to (like Sauron's eye!). This command can be used to peer into other directories, _without moving_, as long as we know the _absolute path_ to that directory.
 
     :~ $ ls /Users/Wendy/Projects

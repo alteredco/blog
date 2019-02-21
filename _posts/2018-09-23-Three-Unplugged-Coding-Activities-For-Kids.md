@@ -23,6 +23,7 @@ First make a green light starting sign and a red light stop sign. I next suggest
 _Gameplay:_
 You and your child will be a choochoo train. With your child, decide where you will start your train and where you want the train to go. For my daughter and I, we first started with the sofa and ended at the kitchen door. Place your green light and red light accordingly. Now, with your child decide which arrow to put down next. The straight arrow will move you forward one step, the left arrow will turn you one step left and the right arrow will turn you one step right. Make certain you create some convincing train noises to add to the overall enjoyment!
 
+![If You Dare](https://i.ibb.co/RQ4YXtr/surprise-kid.jpg#feature)
 ### If You Dare
 
 _Why this activity:_
@@ -38,6 +39,7 @@ All you need is to place the legos so that you and your child can take turns dra
 _Gameplay:_
 You and your child will be a giving each other dares to perform on condition of which color lego you choose. It should be put in this kind of format: "IF you get a red lego, you will make a funny face!" You can later choose to expand your conditional dare by adding "ELSE IF you get a blue lego you will jump on one leg 5 times and moo!" Make certain your dares are suitably silly! I know this game sounds simple, but it is super popular in this household!
 
+![Fun Functions](https://i.ibb.co/QcnhTvf/fun-lego.jpg#feature)
 ### Lego Functions
 
 _Why this activity:_
