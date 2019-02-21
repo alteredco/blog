@@ -8,7 +8,7 @@ image: "https://image.ibb.co/jhBW2U/teach_kids_code.png"
 
 As a coding Mom, I have often questioned how best to introduce my 3-year old daughter to code. She is too young to have long activities and I prefer her to have limited screen time during the day. However, I do value getting her into STEAM activities early and have worked to find ways to incorporate these into our playtime together. In Belgium, we can have a lot of rainy afternoons and they have proved to be perfect opportunities to create some great games! I am going to detail my top three unplugged activities that have been tried and tested by our family!
 
-![Our Sequence ChooChoo Track](https://preview.ibb.co/cArENU/IMG_0697.jpg)
+![Our Sequence ChooChoo Track](https://preview.ibb.co/cArENU/IMG_0697.jpg#feature)
 ### Sequence ChooChoo
 
 _Why this activity:_
