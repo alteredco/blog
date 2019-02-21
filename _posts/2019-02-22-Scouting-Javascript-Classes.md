@@ -61,7 +61,7 @@ We need to use dot notation and the keyword **_this_**. In this case **_this_** 
         this.humanName = humanName;
         this.birthday =  birthday;
         this.element = element;
-        this.favoriteColor =  favoriteColor;
+        this.favoriteColor = favoriteColor;
         this.strength = strength;
         this.weakness = weakness;
       }
@@ -74,4 +74,44 @@ Now we are ready to **_instantiate_** our Sailor Scout! _Instantiate_ means to c
 
 Now if we ```console.log(sailorMercury)``` we should see all of Sailor Mercury's properties and values!
 
-```SailorScout {scoutName: "Sailor Mercury", humanName: "Ami", birthday: "September 10", element: "Water", favoriteColor: "Blue", strength: "Intelligence", weakness: "shyness"}```
+    SailorScout {scoutName: "Sailor Mercury", humanName: "Ami", birthday: "September 10", element: "Water", favoriteColor: "Blue", strength: "Intelligence", weakness: "shyness"}
+
+### Adding Methods to Our Class
+
+Sailor Scouts need to do something magical so we will need to add some _methods_ to our Sailor Scout **_class__**. This is a similar process to adding a _method_ to our Sailor Moon object literal.  First, we want to add one more _property_ to our Sailor Scout: ```magicalPhrase```. Then we will use that _property_ in a _method_ we will name ```cast```.
+
+    class SailorScout {
+      constructor(scoutName, humanName, birthday, element, favoriteColor, strength, weakness, magicalPhrase) {
+        this.scoutName = scoutName;
+        this.humanName = humanName;
+        this.birthday =  birthday;
+        this.element = element;
+        this.favoriteColor = favoriteColor;
+        this.strength = strength;
+        this.weakness = weakness;
+        this.magicalPhrase = magicalPhrase;
+      }
+
+      cast() {
+        console.log(this.magicalPhrase);
+      }
+
+    }
+
+Let's see this in action:
+
+      const sailorMars = new SailorScout( "Sailor Mars", "Rei",  "April 17th", "Fire", "Red", "Psychic Abilities","Stubborness", "Mars Fire Ignite!")
+
+      const sailorJupiter = new SailorScout("Sailor Jupiter", "Makoto", "December 5", "Thunder", "Green", "Physical Strength", "Impulsivity","Jupiter Thunder Crash!")
+
+      sailorMars.cast();
+      sailorJupiter.cast();
+
+      Mars Fire Ignite!
+      Jupiter Thunder Crash!
+
+![Mars Fire Ignite!](https://i.ibb.co/9HFcdvH/sailor-mars-fire.jpg#feature)
+
+
+
+    
