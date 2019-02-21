@@ -78,7 +78,7 @@ Now if we ```console.log(sailorMercury)``` we should see all of Sailor Mercury's
 
 ### Adding Methods to Our Class
 
-Sailor Scouts need to do something magical so we will need to add some _methods_ to our Sailor Scout **_class__**. This is a similar process to adding a _method_ to our Sailor Moon object literal.  First, we want to add one more _property_ to our Sailor Scout: ```magicalPhrase```. Then we will use that _property_ in a _method_ we will name ```cast```.
+Sailor Scouts need to do something magical so we will need to add some _methods_ to our Sailor Scout **_class_**. This is a similar process to adding a _method_ to our Sailor Moon object literal.  First, we want to add one more _property_ to our Sailor Scout: ```magicalPhrase```. Then we will use that _property_ in a _method_ we will name ```cast```.
 
     class SailorScout {
       constructor(scoutName, humanName, birthday, element, favoriteColor, strength, weakness, magicalPhrase) {
@@ -89,7 +89,7 @@ Sailor Scouts need to do something magical so we will need to add some _methods_
         this.favoriteColor = favoriteColor;
         this.strength = strength;
         this.weakness = weakness;
-        this.magicalPhrase = magicalPhrase;
+        <span style="color:yellow">this.magicalPhrase = magicalPhrase;</span>
       }
 
       cast() {
