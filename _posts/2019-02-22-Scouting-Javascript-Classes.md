@@ -112,6 +112,7 @@ Let's see this in action:
 
 ![Mars Fire Ignite!](https://i.ibb.co/9HFcdvH/sailor-mars-fire.jpg#feature)
 
-**Congrats! You can now create your own army of Sailor Senshi!!**
+**Congrats! You can now quickly create your own army of Sailor Senshi!!**
+Next time we will upgrade our Sailor Scouts with 'getters' and 'setters'!
 
     
