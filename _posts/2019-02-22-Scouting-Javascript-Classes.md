@@ -12,18 +12,18 @@ Inspired by a conversation I heard yesterday I wanted to give a clear explainati
 So, this is going to sound crazy, but the overheard conversation was between two cats talking about a magical heroine. Let's see if I can describe her as an object literal. 
 
     const sailorMoon = {
-    humanName: 'Usagi',
-    nickName: 'Meatball Head',
-    birthday: 'June 30',
-    age: 14,
-    favoriteAnimal: 'Rabbit',
-    favoriteColor: 'White',
-    favoriteFood: 'Ice Cream',
-    strength: 'Loyalty',
-    weakness: 'Thunder',
-    phrase: function() {
-      console.log('Moon Prism Power Makeup!')
-    }
+      humanName: 'Usagi',
+      nickName: 'Meatball Head',
+      birthday: 'June 30',
+      age: 14,
+      favoriteAnimal: 'Rabbit',
+      favoriteColor: 'White',
+      favoriteFood: 'Ice Cream',
+      strength: 'Loyalty',
+      weakness: 'Thunder',
+      phrase: function() {
+        console.log('Moon Prism Power Makeup!')
+      }
   }
 
 Notice that our heroine's object literal is arranged within curly brackets and key-value pairs are separated with a comma. All of the key-value pairs are "properties" of ```const sailorMoon```. The last pairing is called a "method".
