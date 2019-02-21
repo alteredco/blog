@@ -89,7 +89,7 @@ Sailor Scouts need to do something magical so we will need to add some _methods_
         this.favoriteColor = favoriteColor;
         this.strength = strength;
         this.weakness = weakness;
-        <span style="color:yellow">this.magicalPhrase = magicalPhrase;</span>
+        this.magicalPhrase = magicalPhrase;
       }
 
       cast() {
@@ -112,6 +112,6 @@ Let's see this in action:
 
 ![Mars Fire Ignite!](https://i.ibb.co/9HFcdvH/sailor-mars-fire.jpg#feature)
 
-
+**Congrats! You can now create your own army of Sailor Senshi!!**
 
     
