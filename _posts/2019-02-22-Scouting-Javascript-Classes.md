@@ -24,7 +24,7 @@ So, this is going to sound crazy, but the overheard conversation was between two
       phrase: function() {
         console.log('Moon Prism Power Makeup!')
       }
-  }
+    }
 
 Notice that our heroine's object literal is arranged within curly brackets and key-value pairs are separated with a comma. All of the key-value pairs are "properties" of ```const sailorMoon```. The last pairing is called a "method".
 
@@ -36,7 +36,13 @@ With class, we can make a Sailor Scout blueprint and churn out four, five, even 
 
 ![Outer Sailor Scouts](https://i.ibb.co/NpWmxV3/Outer-Senshi.jpg#feature)
 
-tbc...
+Let's start with declaring our class. Notice the name of the class is capitalized. This is common convention to deliniate classes.
+
+  const SailorScout = {
+    constructor() {
+
+    }
+  }
 
 
 
