@@ -2472,6 +2472,10 @@
 				width: 100%;
 			}
 
+			img[src *="#feature"] {
+				width: 100%;
+			}
+
 		@media screen and (max-width: 736px) {
 
 			.image.fit {
@@ -2480,9 +2484,12 @@
 
 			.image.main {
 				margin: 2rem 0;
-				width: 80%;
 			}
 
+		}
+
+		img[src *="#feature"] {
+			width: 80%;
 		}
 
 	a.image {
