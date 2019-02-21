@@ -36,13 +36,13 @@ With class, we can make a Sailor Scout blueprint and churn out four, five, even 
 
 ![Outer Sailor Scouts](https://i.ibb.co/NpWmxV3/Outer-Senshi.jpg#feature)
 
-Let's start with declaring our class. Notice the name of the class is capitalized. This is common convention to deliniate classes.
+Let's start with declaring our class. Notice the name of the class is capitalized. This is common convention to deliniate a class.
 
-  const SailorScout = {
-    constructor() {
+    class SailorScout = {
+      constructor() {
 
+      }
     }
-  }
 
 
 
