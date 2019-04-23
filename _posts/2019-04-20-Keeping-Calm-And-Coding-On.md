@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keeping Calm and Coding On"
-date:   2019-02-14
+date:   2019-04-20
 excerpt: "Seven tips for newbie coders"
 image: "https://i.ibb.co/G22sbnP/Keep-Calm-Coding.png" 
 ---
