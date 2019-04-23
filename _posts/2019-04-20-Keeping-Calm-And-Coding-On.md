@@ -12,15 +12,15 @@ There is a reason "Learn by doing" is one of the mantras of this blog. With ever
 
 ## 2. Grasp the fundamentals for long-term benefits
 ￼
-As elementary as they may appear at first, programming fundamentals always need to come first: the better you understand them, the easier it is to learn more advanced concepts. If you try to rush through courses you WILL be the first to get stuck in the transition into more advanced material, such as back-end programming. 
+As elementary as they may appear at first, programming fundamentals always need to come first: the better you understand them, the easier it is to learn more advanced concepts. If you try to rush through courses you WILL be the first to get stuck in the transition into more advanced material. If you have a good grasp of the basics, you will be more flexible as a programmer and better bridge across coding languages as they share a lot of similar concepts.
  
-## 3. Code by hand. It sharpens proficiency and you’ll need it to get a job.
+## 3. Code by hand. Brain-train to create code.
 
-Coding-by-hand still remains one of the most effective methods to learn how to program. Be it on a whiteboard or notebook, coding-by-hand requires further caution, precision, and intent behind every line of code. Because unlike on a computer, you can’t run hand-written code midway through the sheet to check if the work is correct. In art school, I was told to avoid erasers at all costs because we learn from our mistakes. If you try to immediately obliterate the mistake, you aren't learning from it!  For technical interviews – a common component of the job interview process – you will have to code-by-hand, because not only is this good for learning, but it’s universally known to be the ultimate test for a programmer’s proficiency.
+Coding-by-hand still remains one of the most effective methods to learn how to program. In art school, I was told to avoid erasers at all costs because we learn from our mistakes. If you try to immediately obliterate the mistake, you aren't learning from it! Be it on a whiteboard or notebook, coding-by-hand requires caution, precision, and intent behind every line of code. Because unlike on a computer, you can’t run hand-written code midway through the sheet to check if the work is correct. For technical interviews – a common component of the job interview process – you will have to code-by-hand, because not only is this good for learning, but it’s universally known to be the ultimate test for a programmer’s proficiency.
  
 ## 4. Ask for help. You’ll need it
 ￼
-People learn faster with mentors and peer feedback. What may seem like an immovable bug or an unlearnable topic could be quickly alleviated by a fresh pair of eyes or a new interpretation of the subject. before. Most developers love to code, and if there’s one thing that passionate individuals enjoy, it’s to share their knowledge with others. Struggling and helping others with their own struggles makes you a better programmer overall.
+People learn faster with mentors and peer feedback. What may seem like an immovable bug or an unlearnable topic could be quickly alleviated by a fresh pair of eyes or a new interpretation of the subject. Put pride to the side and don't be afraid to ask for support! Most developers love to code, and if there’s one thing that passionate individuals enjoy, it’s to share their knowledge with others. Struggling and helping others with their own struggles makes you a better programmer overall.
  
 ## 5. Seek out more online resources. There’s a wealth of content
 ￼
@@ -29,7 +29,7 @@ Hint: Don’t underestimate the power of google search.
  
 ## 6. Don’t just read the sample code. Tinker with it!
 ￼
-Reading sample code is not enough to understand how it works. To develop a true understanding, you need to actually run the code and tinker with it. See Miss Frizzle in tip #1 above.
+Reading sample code is not enough to understand how it works. To develop a true understanding, you need to actually run the code and tinker with it. Consider it a process of building a personal relationship with the sample code and asking it questions. See Miss Frizzle in tip #1 above.
  
 ## 7. Take breaks when debugging
 ￼
