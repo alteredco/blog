@@ -3,7 +3,7 @@ layout: post
 title:  "Keeping Calm and Coding On"
 date:   2019-02-14
 excerpt: "Seven tips for newbie coders"
-image: ""
+image: "https://i.ibb.co/G22sbnP/Keep-Calm-Coding.png" 
 ---
 ## 1.  Learn by doing. Always play with the code while learning
 ￼
