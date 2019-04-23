@@ -7,22 +7,20 @@ image: "https://i.ibb.co/G22sbnP/Keep-Calm-Coding.png"
 ---
 ## 1.  Learn by doing. Always play with the code while learning
 ￼
-With every new subject, the sooner you start playing with the code, the faster you will learn the given concepts. Even if you blaze through an entire chapter of reading and a topic like for loops seems straightforward – so straightforward even a monkey could do it – you’ll still be scratching your head when tasked to implement the code for the first time.
+There is a reason "Learn by doing" is one of the mantras of this blog. With every new subject, the sooner you start playing with the code, the faster you will learn the given concepts. We all start our learning development through play.Even if you blaze through an entire chapter of reading and a topic like 'for loops' seems straightforward – you’ll still be scratching your head when tasked to implement the code for the first time.  In the words of the inestimable Miss Frizzle, "Take chances, make mistakes, get messy!"
  
 
 ## 2. Grasp the fundamentals for long-term benefits
 ￼
-As elementary as they may appear at first, programming fundamentals always need to come first: the better you understand them, the easier it is to learn more advanced concepts. From our experience at Coding Dojo, students who rush through the beginning of our courses – where we focus most on web development fundamentals – are often the first to get stuck as we transition into more advanced material, such as back-end programming.
+As elementary as they may appear at first, programming fundamentals always need to come first: the better you understand them, the easier it is to learn more advanced concepts. If you try to rush through courses you WILL be the first to get stuck in the transition into more advanced material, such as back-end programming. 
  
 ## 3. Code by hand. It sharpens proficiency and you’ll need it to get a job.
 
-Coding-by-hand still remains one of the most effective methods to learn how to program. Be it on a whiteboard or notebook, coding-by-hand requires further caution, precision, and intent behind every line of code. Because unlike on a computer, you can’t run hand-written code midway through the sheet to check if the work is correct. Although more time consuming, this restriction will mold you into a more fundamentally sound developer, both in the classroom and the job market. For college exams and technical interviews – a critical component of the job interview process – you will have to code-by-hand, because not only is this good for learning, but it’s universally known to be the ultimate test for a programmer’s proficiency.
+Coding-by-hand still remains one of the most effective methods to learn how to program. Be it on a whiteboard or notebook, coding-by-hand requires further caution, precision, and intent behind every line of code. Because unlike on a computer, you can’t run hand-written code midway through the sheet to check if the work is correct. In art school, I was told to avoid erasers at all costs because we learn from our mistakes. If you try to immediately obliterate the mistake, you aren't learning from it!  For technical interviews – a common component of the job interview process – you will have to code-by-hand, because not only is this good for learning, but it’s universally known to be the ultimate test for a programmer’s proficiency.
  
 ## 4. Ask for help. You’ll need it
 ￼
-People learn faster with mentors and peer feedback. What may seem like an immovable bug or an unlearnable topic could be quickly alleviated by a fresh pair of eyes or a new interpretation of the subject. before. Most developers love to code, and if there’s one thing that passionate individuals enjoy, it’s to share their knowledge with others.
-Struggling makes you a better programmer overall.
-Hint: Stackoverlfow and reddit’s learn programming subreddit are gold mines for online programming assistance. We 
+People learn faster with mentors and peer feedback. What may seem like an immovable bug or an unlearnable topic could be quickly alleviated by a fresh pair of eyes or a new interpretation of the subject. before. Most developers love to code, and if there’s one thing that passionate individuals enjoy, it’s to share their knowledge with others. Struggling and helping others with their own struggles makes you a better programmer overall.
  
 ## 5. Seek out more online resources. There’s a wealth of content
 ￼
@@ -31,7 +29,7 @@ Hint: Don’t underestimate the power of google search.
  
 ## 6. Don’t just read the sample code. Tinker with it!
 ￼
-Reading sample code is not enough to understand how it works. To develop a true understanding, you need to actually run the code and tinker with it.
+Reading sample code is not enough to understand how it works. To develop a true understanding, you need to actually run the code and tinker with it. See Miss Frizzle in tip #1 above.
  
 ## 7. Take breaks when debugging
 ￼
